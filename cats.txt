@@ -3,3 +3,6 @@ cd
 sokkies
 pharron
 evangeline
+spotty
+lucky
+topsy
