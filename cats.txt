@@ -3,6 +3,9 @@ cd
 sokkies
 pharron
 evangeline
+spotty
+lucky
+topsy
 vissies
 hasies
 perkies
